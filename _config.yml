@@ -1,0 +1,15 @@
+title: Workshop on Applied Machine Learning Management
+author: Irina Vasilinetc
+pub_year: 2022
+github_username: ivasilinetc
+repo: "https://github.com/wamlm-kdd/2022"
+
+url: https://wamlm-kdd.github.io
+baseurl: /2022
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+
